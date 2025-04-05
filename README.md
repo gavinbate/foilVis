@@ -23,6 +23,7 @@ PyOpenGL
 **Installation**
 
 Ensure you have Python 3.6 or newer installed
+
 Install the required dependencies:
 
 *pip install pygame numpy pyopengl*
