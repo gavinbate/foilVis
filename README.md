@@ -1,4 +1,4 @@
-# foilVis
+# Airfoil Simulator Project
 **openGL airfoil visualizer and simulator**
 
 This simulator was written as a digital knowledge product for APSC181 Dynamics. 
